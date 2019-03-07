@@ -11,10 +11,24 @@ nav{
     font-style: Italic;
     background-color: purple;
 }
-header{
-    height:800px;
-    width:500px;
-    background-image: url(family2.jpeg);
+header {
+    height:600px;
+    width:100%;
+    background-image: url("family3.jpg");
+
     background-size:cover;
     font-family: 'Roboto', sans-serif;
+    text-align:center;
+}
+.services i {
+    font-size: 30px;
+    padding:  12px 14px;
+    
+    color: #709963;
+    background-color: #709963;
+    
+    width: 80px;
+    height: 80px;
+    border-radius:  50%;
+    
 }
